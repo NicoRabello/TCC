@@ -16,4 +16,4 @@ Repositório destinado aos arquivos do Trabalho de conclusão de curso
   
   
 ## Ferramentas
-  - Protégé - é um editor gratuito e de código aberto para estruturar a construção inteligente de ontologias. 
+  - Protégé - é um editor gratuito e de código aberto para estruturar a construção inteligente de ontologias. Disponível em: https://protege.stanford.edu/
