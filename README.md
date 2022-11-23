@@ -4,7 +4,9 @@ Repositório destinado a prototipação da versão 1.0.2022
 Equipe/Participantes:
 ======================
 ANDRÉ FABIANO DE MORAES - andre.moraes@ifc.edu.br
+
 BRAIAN GABRIEL ANTONIOLLI - braianantoniolli@gmail.com
+
 CLARISSA VITÓRIA SOUZA GIUZIO - clarissagiuzio@gmail.com
 CLEISE ROSSANE MONTEIRO MOREIRA - cleisemmoreira@gmail.com
 CLEITON ARAUJO MOURA - proquarbmz@gmail.com
