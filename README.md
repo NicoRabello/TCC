@@ -13,3 +13,7 @@ Repositório destinado aos arquivos do Trabalho de conclusão de curso
 
 ## Dados Sec. Educação
   - https://docs.google.com/spreadsheets/d/1UZ45WeeCWDGDSXLVA-UXAowh_snIa4dQILQPYn9K9tg/edit?usp=sharing
+  
+  
+## Ferramentas
+  - Protégé - é um editor gratuito e de código aberto para estruturar a construção inteligente de ontologias. 
