@@ -56,7 +56,7 @@ WILLIBY DA SILVA FERREIRA - williby.ferreira@ifc.edu.br
 
  
 ## Dados Sec. Educação de Camboriú - SC (Brasil)
-  - https://docs.google.com/spreadsheets/d/1UZ45WeeCWDGDSXLVA-UXAowh_snIa4dQILQPYn9K9tg/edit?usp=sharing
+  - Coleta de dados - https://docs.google.com/spreadsheets/d/1UZ45WeeCWDGDSXLVA-UXAowh_snIa4dQILQPYn9K9tg/edit?usp=sharing
   
   
 ## Ferramentas
