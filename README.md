@@ -1,5 +1,5 @@
 # IFC - Instituto Federal Catarinense
-# Projeto para Integração de Dados e Apoio à Decisão via API (NOME)
+# Projeto para Integração de Dados e Apoio à Decisão via API (Codnome - PIDAD-API)
 # Data de Criação 22/11/2022.
 Repositório destinado a prototipação da versão 1.0.2022
 
