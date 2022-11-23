@@ -1,5 +1,25 @@
-# TCC
-Repositório destinado aos arquivos do Trabalho de conclusão de curso
+# Projeto para Integração de Dados e Apoio à Decisão via API (NOME)
+Repositório destinado a prototipação da versão 1.0.2022
+
+Equipe/Participantes:
+======================
+ANDRÉ FABIANO DE MORAES - andre.moraes@ifc.edu.br
+BRAIAN GABRIEL ANTONIOLLI - braianantoniolli@gmail.com
+CLARISSA VITÓRIA SOUZA GIUZIO - clarissagiuzio@gmail.com
+CLEISE ROSSANE MONTEIRO MOREIRA - cleisemmoreira@gmail.com
+CLEITON ARAUJO MOURA - proquarbmz@gmail.com
+GIANFRANCO DA SILVA ARAÚJO - gianfranco.araujo@ifc.edu.br
+JACOBO DANIEL COA REMON - daniel.coa@gmail.com
+JOSÉ FELIPE ALMEIDA DOS SANTOS - josefelipeadm@hotmail.com
+LUIS AUGUSTO SILVA - luisaugustos@usal.es
+MATHEUS BARBOSA DOS SANTOS SILVA - matt0032014@gmail.com
+MATHEUS GADOTTI MERIZ - matheusgmeriz@hotmail.com
+NATASHA DE SOUZA LIMA - natasha.academicotsi@gmail.com
+NÍCOLAS GABRIEL RABELLO - nico.rabello935@gmail.com
+RAFAEL DE MOURA SPERONI - rafael.speroni@ifc.edu.br
+ROGER BENEVENUTTI - rogertti@gmail.com
+TAUANY CAROLINE NUNES BERNARDO - tauanycaroline14@gmail.com
+WILLIBY DA SILVA FERREIRA - williby.ferreira@ifc.edu.br
 
 
 ## Video explicativo do projeto 
