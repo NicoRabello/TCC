@@ -9,3 +9,7 @@ Repositório destinado aos arquivos do Trabalho de conclusão de curso
  **2** https://github.com/moodle/moodle
    - Criar sistema que consuma a API do Moodle (talvez mais viável para apresentar a nossa proposta):
    - (https://docs.moodle.org/dev/Web_service_API_functions)
+
+
+## Dados Sec. Educação
+  - https://docs.google.com/spreadsheets/d/1UZ45WeeCWDGDSXLVA-UXAowh_snIa4dQILQPYn9K9tg/edit?usp=sharing
