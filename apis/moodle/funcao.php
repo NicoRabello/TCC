@@ -1,31 +1,27 @@
 <?php namespace moodle;
-//Teste de apenas busca por e-mail 
-
-
-
-
 
 class moodle
 {
 
      // CREDENCIAIS DE CONEXAO COM A API
      private $base_url;
-     private $access_token;
-    
+     private $content_type;
+     private $token;
 
 
-    public function __construct($base_url, $access_token)
+    public function __construct($base_url, $token,$content_type)
     {
         $this->base_url = $base_url;
-        $this->access_token = $access_token;
+        $this->content_type = $content_type;
+        $this->token = $token;
     }
 
 
-    public function setParam($route,$access_token)
+    public function setParam($data, $route)
     {
-        if($route != 0 xor $access_token != 0){
+        if($data != 0  && $route != 0){
+            $this->data = $data;
             $this->route = $route;
-            $this->access_token = $access_token;
             return true;
         }
         else{
@@ -34,15 +30,15 @@ class moodle
     }
 
 
-    public function getData($route)
+    public function getData($route,$data)
     {
-
-        $url = $this->base_url . "/". $route;
-
+        $url = $this->base_url  . '?wstoken=2d7f2a965274f2400344bbf9579bb263'. '&moodlewsrestformat=json' .'&wsfunction='. $route . '&courseid=' . $data;
+   
+        
         /* Define o Header */
         $headers = array();
         $headers[] = 'Content-Type: ' . $this->content_type;
-        $headers[] = 'access_token: ' . $this->access_token;
+        $headers[] = 'wstoken: ' . $this->token;
 
         $curl = curl_init();
 
@@ -63,7 +59,7 @@ class moodle
         //var_dump($response);
         $error = curl_error($curl); //Zero retorno, mesmo tentado força erros.
         $info = curl_getinfo($curl); //Retorno um array 
-        var_dump($info);
+        //var_dump($info);
         $http_res = curl_getinfo($curl, CURLINFO_HTTP_CODE); //Retorno de error  apenas retorna 200 ou 404
 
 
