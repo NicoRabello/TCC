@@ -1,64 +1,24 @@
-# IFC - Instituto Federal Catarinense
-# Projeto para Integração de Dados e Apoio à Decisão via API (Codnome - PIDAD-API)
-# Data de Criação 22/11/2022.
-Repositório destinado a prototipação da versão 1.0.2022
+Referências:
 
-Equipe/Participantes:
-======================
-ANDRÉ FABIANO DE MORAES - andre.moraes@ifc.edu.br
+Moodle Github - The world's open source learning platform.  is a learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalised learning environments.
+Disponível em: [ https://github.com/moodle/moodle ]. Acessado em: 22 Nov.2022.
 
-BRAIAN GABRIEL ANTONIOLLI - braianantoniolli@gmail.com
+Moodle SQL - Integração do Moodle com Sistema Acadêmico (2011) Disponível em: [ http://moodlesql.blogspot.com/2011/02/integracao-do-moodle-com-sistema.html ] Acessado em: 22 Nov.2022.
 
-CLARISSA VITÓRIA SOUZA GIUZIO - clarissagiuzio@gmail.com
+Projeto Moodle. (2022). Disponível em: [ https://moodle.org ]. Acessado em: 22 Nov.2022.
 
-CLEISE ROSSANE MONTEIRO MOREIRA - cleisemmoreira@gmail.com
+=============================
 
-CLEITON ARAUJO MOURA - proquarbmz@gmail.com
+Token de acesso (usuário Webservice): 2d7f2a965274f2400344bbf9579bb263
 
-GIANFRANCO DA SILVA ARAÚJO - gianfranco.araujo@ifc.edu.br
+Endpoint da API: https://moodle.embracore.com.br/webservice/rest/server.php
 
-JACOBO DANIEL COA REMON - daniel.coa@gmail.com
+Adicionar permissões para o usuário da API: https://moodle.embracore.com.br/admin/roles/define.php?action=view&roleid=9
 
-JOSÉ FELIPE ALMEIDA DOS SANTOS - josefelipeadm@hotmail.com
+Habilitar funções para a API Rest: https://moodle.embracore.com.br/admin/webservice/service_functions.php?id=2
 
-LUIS AUGUSTO SILVA - luisaugustos@usal.es
+Documentação interna das funções: https://moodle.embracore.com.br/admin/webservice/documentation.php
 
-MATHEUS BARBOSA DOS SANTOS SILVA - matt0032014@gmail.com
+Documentação online das funções: https://docs.moodle.org/dev/Web_service_API_functions
 
-MATHEUS GADOTTI MERIZ - matheusgmeriz@hotmail.com
-
-NATASHA DE SOUZA LIMA - natasha.academicotsi@gmail.com
-
-NÍCOLAS GABRIEL RABELLO - nico.rabello935@gmail.com
-
-RAFAEL DE MOURA SPERONI - rafael.speroni@ifc.edu.br
-
-ROGER BENEVENUTTI - rogertti@gmail.com
-
-TAUANY CAROLINE NUNES BERNARDO - tauanycaroline14@gmail.com
-
-WILLIBY DA SILVA FERREIRA - williby.ferreira@ifc.edu.br
-
-
-
-
-## Video explicativo do projeto 
- **1**  - (Introdução) 
-             (https://youtu.be/plEuCjNjk-c)
-
-        - (Desenvolvimento) 
-        
- 
- ## Documentação do Moodle do GitHub 
- **2** https://github.com/moodle/moodle
-   - Criar sistema que consuma a API do Moodle (talvez mais viável para apresentar a nossa proposta):
-   - (https://docs.moodle.org/dev/Web_service_API_functions)
-
- 
-## Dados Sec. Educação de Camboriú - SC (Brasil)
-  - Coleta de dados - https://docs.google.com/spreadsheets/d/1UZ45WeeCWDGDSXLVA-UXAowh_snIa4dQILQPYn9K9tg/edit?usp=sharing
-  
-  
-## Ferramentas
-  - Protégé - é um editor gratuito e de código aberto para estruturar a construção inteligente de ontologias. Disponível em: https://protege.stanford.edu/
-  - Grafana - é uma aplicação web de análise de código aberto multiplataforma e visualização interativa da web. Ele fornece tabelas, gráficos e alertas para a Web quando conectado a fontes de dados suportadas.Disponível em: https://grafana.com/ 
+Exemplos na doc do Moodle: https://docs.moodle.org/dev/Creating_a_web_service_client
