@@ -62,3 +62,4 @@ WILLIBY DA SILVA FERREIRA - williby.ferreira@ifc.edu.br
 ## Ferramentas
   - Protégé - é um editor gratuito e de código aberto para estruturar a construção inteligente de ontologias. Disponível em: https://protege.stanford.edu/
   - Grafana - é uma aplicação web de análise de código aberto multiplataforma e visualização interativa da web. Ele fornece tabelas, gráficos e alertas para a Web quando conectado a fontes de dados suportadas.Disponível em: https://grafana.com/ 
+  - Moodle - é um software livre, de apoio à aprendizagem, executado num ambiente virtual (ver ambiente virtual de aprendizagem). Disponível em: https://moodle.org/
